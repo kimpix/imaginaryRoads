@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Books",
+  "itemListElement": [{
+    "@type": "listItem",
+    "author": "/author/nameOfAuthor.html",
+    "illustrator": "/author/nameOfIllustrator.html",
+    "bookFormat": "https://schema.org/BookFormatType",
+    "datePublished": "",
+    "image": "",
+    "isbn": "",
+    "name": "",
+    "briefSynopsis": "",
+    "longSynopsis": "",
+    "bookQuality": "",
+    "numberOfPages": "",
+    "dateOfAddition": "",
+    "copyrightYear": "",
+    "copyrightHolder":"",
+    "isFamilyFriendly": "",
+    "genre": "",
+    "inLanguage": "",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "price": "",
+      "priceCurrency": ""
+    },
+    "publisher": "",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "",
+      "reviewCount": ""
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": "",
+        "datePublished": "",
+        "name": "",
+        "reviewBody": "",
+        "reviewRating": {
+      "@type": "Rating",
+          "ratingValue": ""
+     }
+      }
+    ]
+  }]
+}
